@@ -64,7 +64,7 @@ main {
 }
 .grid-container {
   display: grid;
-  grid-template-columns: 32% 32% 32%;
+  grid-template-columns: 33% 33% 33%;
   grid-gap: 2rem;
   background-color: #2196F3;
   padding: 2rem;
